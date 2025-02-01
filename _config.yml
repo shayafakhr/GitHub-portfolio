@@ -1,0 +1,5 @@
+title: Minimal theme
+#logo: /assets/img/logo.png
+description: Computer Engineering
+#show_downloads: true
+theme: jekyll-theme-minimal
