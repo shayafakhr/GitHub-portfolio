@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 
 **Links:**  
 - [GitHub Repository](link_to_repo)  
-- [Live Demo (if applicable)](link_to_live_demo)  
+ 
 
 ---
 
@@ -41,7 +41,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 
 **Links:**  
 - [GitHub Repository](link_to_repo)  
-- [Live Demo (if applicable)](link_to_live_demo)  
+
 
 ---
 
@@ -59,7 +59,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 
 **Links:**  
 - [GitHub Repository](link_to_repo)  
-- [Live Demo (if applicable)](link_to_live_demo)  
+ 
 
 ---
 
@@ -77,7 +77,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 ![Project 4 Screenshot](docs/assets/5832648734696130913.jpg)
 **Links:**  
 - [GitHub Repository](link_to_repo)  
-- [Live Demo (if applicable)](link_to_live_demo)  
+ 
 
 ---
 
@@ -95,7 +95,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 
 **Links:**  
 - [GitHub Repository](link_to_repo)  
-- [Live Demo (if applicable)](link_to_live_demo)  
+
 
 
 ---
