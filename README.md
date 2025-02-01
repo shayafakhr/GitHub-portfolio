@@ -55,8 +55,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 
 
 
-**Screenshots:**  
-![Project 3 Screenshot](docs/assets/Screenshot 1403-11-13 at 13.53.33.png)  
+
 
 **Links:**  
 - [GitHub Repository](link_to_repo)  
