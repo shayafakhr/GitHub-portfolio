@@ -76,7 +76,7 @@ Welcome to my GitHub portfolio! Here, you'll find a collection of my projects, m
 ![Project 4 Screenshot](docs/assets/5832648734696130912.jpg)  
 ![Project 4 Screenshot](docs/assets/5832648734696130913.jpg)
 **Links:**  
-- [GitHub Repository](link_to_repo)  
+- [GitHub Repository](https://github.com/shayafakhr/DCT-quantization)  
  
 
 ---
